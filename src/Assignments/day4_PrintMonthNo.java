@@ -21,11 +21,6 @@ public class day4_PrintMonthNo {
 		case "november":System.out.println("Month No. is 11"); break;
 		case "december":System.out.println("Month No. is 12"); break;
 		default:System.out.println("Invalid month");
-
-
-
-
-
 		
 		}
 	
